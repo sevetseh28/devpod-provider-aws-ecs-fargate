@@ -1,6 +1,6 @@
 package main
 
-import "github.com/loft-sh/devpod-provider-aws/cmd"
+import "github.com/sevetseh28/devpod-provider-aws-ecs-fargate/cmd"
 
 func main() {
 	cmd.Execute()

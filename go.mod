@@ -1,4 +1,4 @@
-module github.com/loft-sh/devpod-provider-aws
+module github.com/sevetseh28/devpod-provider-aws-ecs-fargate
 
 go 1.19
 

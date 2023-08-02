@@ -18,7 +18,7 @@ import (
 	"github.com/aws/aws-sdk-go-v2/service/ec2/types"
 	"github.com/aws/aws-sdk-go-v2/service/iam"
 
-	"github.com/loft-sh/devpod-provider-aws/pkg/options"
+	"github.com/sevetseh28/devpod-provider-aws-ecs-fargate/pkg/options"
 	"github.com/pkg/errors"
 )
 

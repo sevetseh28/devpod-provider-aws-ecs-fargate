@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/loft-sh/devpod-provider-aws/pkg/aws"
+	"github.com/sevetseh28/devpod-provider-aws-ecs-fargate/pkg/aws"
 	"github.com/loft-sh/devpod/pkg/log"
 	"github.com/loft-sh/devpod/pkg/provider"
 	"github.com/loft-sh/devpod/pkg/ssh"
